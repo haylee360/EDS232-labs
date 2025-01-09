@@ -1,2 +1,6 @@
 # Add ipynb checkpoints
 .ipynb_checkpoints/
+
+data/*
+
+*.DS.Store
